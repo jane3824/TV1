@@ -1,6 +1,5 @@
 {
     "cookie": "http://127.0.0.1:9978/file/TVBox/cookie.txt",
-    //"cookie": "clan://XYQTVBox/biliext/cookie.txt",
     "classes": [
         {
             "type_name": "搞笑",
